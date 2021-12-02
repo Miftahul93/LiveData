@@ -1,6 +1,7 @@
 "# LiveData" 
 Alur Latihan
 Berikut alur yang akan kita lakukan dalam latihan kali ini:
+https://www.dicoding.com/academies/14/tutorials/19592
 
 1. Membuat project baru dengan nama MyLiveData.
 2. Menambahkan library ke dalam project.
